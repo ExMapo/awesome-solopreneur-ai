@@ -256,6 +256,7 @@ Decisions without data are guesses. These tools give you the intelligence you ne
 - [Fathom Analytics](https://usefathom.com) - Privacy-first website analytics. GDPR compliant by default, fast, and simple. Great Google Analytics alternative. `Paid`
 - [SparkToro](https://sparktoro.com) - Audience intelligence platform. Find where your target customers spend time online, who they follow, and what they share. `Freemium`
 - [SimilarWeb](https://similarweb.com) - Competitor traffic analysis. See how much traffic any website gets, where it comes from, and what content drives it. `Freemium`
+- [EarlyLore](https://earlylore.com) - AI idea validator and competitive research for founders. Benchmark competitors, demand, pricing, and entry angles against real software products before you build. `Freemium`
 - [Semrush](https://semrush.com) - All-in-one SEO and competitive intelligence. Keyword research, backlink analysis, traffic estimates, and competitive gaps. `Freemium`
 - [Ahrefs](https://ahrefs.com) - SEO and backlink analysis. Better for backlink data than Semrush. Essential for content-driven businesses. `Paid`
 - [Exploding Topics](https://explodingtopics.com) - Find trending topics before they peak. Great for content strategy and finding underserved niches. `Freemium`
