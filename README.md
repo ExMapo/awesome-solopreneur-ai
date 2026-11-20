@@ -260,6 +260,7 @@ Decisions without data are guesses. These tools give you the intelligence you ne
 - [Ahrefs](https://ahrefs.com) - SEO and backlink analysis. Better for backlink data than Semrush. Essential for content-driven businesses. `Paid`
 - [Exploding Topics](https://explodingtopics.com) - Find trending topics before they peak. Great for content strategy and finding underserved niches. `Freemium`
 - [Brandwatch](https://brandwatch.com) - Social listening and brand monitoring. Know when people mention you, your competitors, or topics relevant to your business. `Paid`
+- [DDScore](https://www.ddscore.ai/) - Checks a founder’s pitch deck and supporting documents against public sources to identify evidence gaps before fundraising. `Paid`
 - [Glimpse](https://meetglimpse.com) - Trend analytics with search and social data. Find rising trends early. `Paid`
 - [Hotjar](https://hotjar.com) - Heatmaps and session recordings for your website. See exactly where visitors click, scroll, and drop off. `Freemium`
 - [Clarity](https://clarity.microsoft.com) - Microsoft's free Hotjar alternative. Session recordings and heatmaps at no cost. `Free`
